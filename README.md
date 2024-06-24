@@ -1,8 +1,7 @@
 ### Hi there, I'm Hrishikesh and I love to code 👋
 
-- 🌱 I’m currently learning ReactJS and NodeJS
-- 🔭 I’m currently working on my personal projects
-- 💬 Ask me about anything
-- 📫 How to reach me: Follow me on Linkedin - https://www.linkedin.com/in/hrishikesh-yadav-5773a4190
+As a Full Stack Developer, I bring a passion for building robust web applications from front-end to back-end. My GitHub repositories showcase my expertise in JavaScript, React, Node.js, Express, MongoDB. Whether it's crafting intuitive user interfaces with responsive designs or architecting APIs and databases, I thrive on solving complex technical challenges
+
+🚀 Let's connect and explore how we can innovate together through technology. Feel free to reach out via LinkedIn-www.linkedin.com/in/hrishikesh-yadav-5773a4190  or email-hrishikeshyadav92@gmail.com
     
 
